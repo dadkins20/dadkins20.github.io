@@ -5,6 +5,13 @@ object-assign
 */
 
 /*!
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*!
  * The buffer module from node.js, for the browser.
  *
  * @author   Feross Aboukhadijeh <http://feross.org>
@@ -40,6 +47,15 @@ object-assign
  *
  * @copyright Oleg Isonen (Slobodskoi) / Isonen 2014-present
  * @website https://github.com/cssinjs/jss
+ * @license MIT
+ */
+
+/**
+ * Checks if two values are equal. Values may be primitives, arrays, or objects.
+ * Returns true if both arguments have the same keys and values.
+ *
+ * @see http://underscorejs.org
+ * @copyright 2009-2013 Jeremy Ashkenas, DocumentCloud Inc.
  * @license MIT
  */
 
