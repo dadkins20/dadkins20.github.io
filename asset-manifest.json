@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.346eaf7b.chunk.js",
-    "main.js.map": "/static/js/main.346eaf7b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.55c4009e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.55c4009e.js.map",
+    "main.js": "/static/js/main.f2e5cef8.chunk.js",
+    "main.js.map": "/static/js/main.f2e5cef8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e51b473.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e51b473.js.map",
     "static/css/2.3b500104.chunk.css": "/static/css/2.3b500104.chunk.css",
-    "static/js/2.ceb511a2.chunk.js": "/static/js/2.ceb511a2.chunk.js",
-    "static/js/2.ceb511a2.chunk.js.map": "/static/js/2.ceb511a2.chunk.js.map",
-    "static/js/3.d8692289.chunk.js": "/static/js/3.d8692289.chunk.js",
-    "static/js/3.d8692289.chunk.js.map": "/static/js/3.d8692289.chunk.js.map",
+    "static/js/2.a63892b0.chunk.js": "/static/js/2.a63892b0.chunk.js",
+    "static/js/2.a63892b0.chunk.js.map": "/static/js/2.a63892b0.chunk.js.map",
+    "static/js/3.0e0206d5.chunk.js": "/static/js/3.0e0206d5.chunk.js",
+    "static/js/3.0e0206d5.chunk.js.map": "/static/js/3.0e0206d5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.3b500104.chunk.css.map": "/static/css/2.3b500104.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ceb511a2.chunk.js.LICENSE.txt": "/static/js/2.ceb511a2.chunk.js.LICENSE.txt",
+    "static/js/2.a63892b0.chunk.js.LICENSE.txt": "/static/js/2.a63892b0.chunk.js.LICENSE.txt",
     "static/js/pdf.worker.entry.618c8c4a.worker.js": "/static/js/pdf.worker.entry.618c8c4a.worker.js",
     "static/js/pdf.worker.entry.618c8c4a.worker.js.LICENSE.txt": "/static/js/pdf.worker.entry.618c8c4a.worker.js.LICENSE.txt",
     "static/js/pdf.worker.entry.618c8c4a.worker.js.map": "/static/js/pdf.worker.entry.618c8c4a.worker.js.map",
@@ -21,10 +21,10 @@
     "static/media/resume.6e449fed.pdf": "/static/media/resume.6e449fed.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.55c4009e.js",
+    "static/js/runtime-main.7e51b473.js",
     "static/css/2.3b500104.chunk.css",
-    "static/js/2.ceb511a2.chunk.js",
+    "static/js/2.a63892b0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.346eaf7b.chunk.js"
+    "static/js/main.f2e5cef8.chunk.js"
   ]
 }
